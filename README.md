@@ -1,5 +1,3 @@
-![hello](https://media2.giphy.com/media/1oE3Ee4299mmXN8OYb/giphy.gif)
-
 <!--
 **apfzvd/apfzvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/ana-paula-azevedo-27a35441/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:apfzvd@gmail.com?subject=Oi%20Ana,%20te%20vi%20no%20Github">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
